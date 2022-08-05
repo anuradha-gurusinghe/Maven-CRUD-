@@ -1,0 +1,7 @@
+com\usermanagement\utl\HibernateUtil.class
+com\usermanagement\service\UserService.class
+com\usermanagement\web\UserServlet.class
+com\usermanagement\bean\User.class
+com\usermanagement\dao\impl\UserDaoImpl.class
+com\usermanagement\dao\UserDao.class
+com\usermanagement\service\impl\UserServiceImpl.class
